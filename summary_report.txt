@@ -1,0 +1,6 @@
+
+Total Records: 7
+
+Average Age: 28.29
+
+Average Salary: 60000.00
